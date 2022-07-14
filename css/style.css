@@ -1,0 +1,19 @@
+header {
+    background-color: blue;
+    color: white;
+}
+
+.header {
+    text-align: center;
+    margin: 10px;
+    background-color: blue;
+    height: 50px;
+}
+
+#main-content {
+    margin-top: 30px;
+}
+
+#left-flex-inside {
+    margin: 10px;
+}
